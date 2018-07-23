@@ -1,0 +1,20 @@
+{
+    "name": "alvine/framework",
+    "type": "library",
+    "version": "1.11.0",
+    "description": "Alvine Framework",
+    "keywords": ["framework","alvine","types","dom","files"],
+    "homepage": "https://github.com/Alvine-IO/framework/",
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "schukai",
+            "email": "info@schukai.de",
+            "homepage": "http://alvine.io",
+            "role": "Company"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
